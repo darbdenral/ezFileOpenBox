@@ -1,6 +1,0 @@
-# Version History for ezFileOpenBox Plugin
-
-# Format: YYYY-MM-DD | Version | Description
-
-2023-06-04 | v1.1.0 | Added file mask filter index
-2023-05-31 | v1.0.0 | Initial release - "See full release notes in README.md"
